@@ -1,5 +1,0 @@
-All Rank avg Precision: 94.41888474629603
-
-All Rank avg Recall: 95.96654806852453
-
-F1_Score: 95.18642584798155
