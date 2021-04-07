@@ -1,0 +1,14 @@
+GT: 153
+Det: 143
+GT: 153
+Det: 143
+GT: 67
+Det: 68
+GT: 67
+Det: 68
+GT: 67
+Det: 68
+GT: 67
+Det: 68
+GT: 101
+Det: 18
