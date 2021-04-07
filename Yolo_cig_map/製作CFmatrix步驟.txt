@@ -1,0 +1,9 @@
+1. 建立一個空的xls檔於 CF_matrix 路徑內對應的日期資料夾
+
+2. 使用YOLO計算Maps的指令會產生  Aps.txt  TpFps.txt 複製到這邊的needs_files資料夾內(須注意Aps TpFps 內容沒有與舊的重疊到EX: 類別若有160類Aps最多160列)
+
+3. 使用 Brand_Count.py 的 Lable_count 統計測試集的所有GroundTruth txt檔並複製到這邊的needs_files資料夾內
+
+4. 使用 Make_CFmatrix.py製作新的混淆矩陣，並同時輸出 TpFpFn.txt 檔案
+
+5. 使用 Calcu_Recall_Precision.py 可計算此次訓練後的測試結果 Precision Recall F1Score 分數
